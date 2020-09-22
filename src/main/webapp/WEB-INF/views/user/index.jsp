@@ -76,6 +76,7 @@ div {
 <title>Add User</title>
 </head>
 <body>
+    <h2> User Management App </h2>
 <h2 align="center"> Enter user details</h2>
  
     <br/>
